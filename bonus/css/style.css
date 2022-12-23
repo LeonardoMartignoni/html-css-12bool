@@ -1,7 +1,3 @@
-[class*="col-"] {
-    border: 2px dashed skyblue;
-}
-
 .box {
-    min-height: 35px;
+    min-height: 40px;
 }

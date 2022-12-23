@@ -1,25 +1,25 @@
 .red {
-    background-color: red;
+    background-color: #FE0000;
 }
 
 .orange {
-    background-color: #FF6900;
+    background-color: #FF9A01;
 }
 
 .yellow {
-    background-color: #FFD700;
+    background-color: #FFFF00;
 }
 
 .green {
-    background-color: #01FF21;
+    background-color: #17FE00;
 }
 
 .blue {
-    background-color: #0094FF;
+    background-color: #0395FE;
 }
 
 .purple {
-    background-color: #7437AD;
+    background-color: #671FFF;
 }
 
 .black {
@@ -27,15 +27,15 @@
 }
 
 .pink {
-    background-color: #FE89BB;
+    background-color: #FE96FE;
 }
 
 .lilac {
-    background-color: #AB51FF;
+    background-color: #F8299E;
 }
 
 .grey {
-    background-color: grey;
+    background-color: #999999;
 }
 
 .white {
@@ -43,5 +43,9 @@
 }
 
 .lightyellow {
-    background-color: #FEE97F;
+    background-color: #FDD08A;
+}
+
+.lightpink {
+    background-color: #FF9898;
 }

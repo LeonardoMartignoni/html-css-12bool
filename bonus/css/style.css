@@ -1,3 +1,17 @@
+body {
+    background-color: #013365;
+}
+
+.container-cat {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+
+#nyan-cat {
+    width: 100%;
+}
+
 .box {
     min-height: 40px;
 }
